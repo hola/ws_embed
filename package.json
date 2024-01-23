@@ -1,5 +1,5 @@
 {
-  "name": "ws_embed",
+  "name": "@hola.org/ws_embed",
   "version": "6.1.0-hola.0",
   "description": "Simple to use, blazing fast and thoroughly tested websocket client and server for Node.js",
   "keywords": [
